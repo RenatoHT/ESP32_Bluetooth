@@ -6,7 +6,7 @@ BluetoothSerial ESP_BT;
 
 // Parameters for Bluetooth interface
 int incoming;
-
+//est
 
 //Tela OLED
 #include <Wire.h>
